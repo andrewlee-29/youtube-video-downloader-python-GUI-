@@ -2,6 +2,8 @@
 
 The YouTube Downloader is a Python application that allows you to download videos from YouTube. With this app, you can easily download your favorite videos and watch them offline without internet connectivity.
 
+![Untitled](Images/Sample.png)
+
 ## Installation
 
 To use the YouTube Downloader app, follow these steps:
